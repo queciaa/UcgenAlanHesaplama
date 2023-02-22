@@ -1,6 +1,6 @@
 # UcgenAlanHesaplama
 
-Java ile kullanıcıdan dik kenarlarının uzunluğunu alan ve hipotenüsü ve ardından alanını hesaplayan programı yazın.
+Java ile kullanıcıdan dik kenarlarının uzunluğunu alan ve önce hipotenüsü ardından alanını hesaplayan programı yazın.
 
 Formül
 Üç𝑔𝑒𝑛𝑖𝑛 ç𝑒𝑣𝑟𝑒𝑠𝑖 = 2𝑢
